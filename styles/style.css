@@ -120,7 +120,6 @@ font-weight: 600;
 .unsplash{
     background-image: url(../image/unsplash_2lWGQ02DGL8.png);
    margin-top: 80px;
-   background-size: cover;
    height: 500px;
    width: 1800px;
    background-repeat: no-repeat;
